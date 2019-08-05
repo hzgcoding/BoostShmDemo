@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SemaphoreR", "SemaphoreR\Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShmClean", "ShmClean\ShmClean.vcxproj", "{23796FA8-8121-4E50-9F22-329D879C5A03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShmGrow", "ShmGrow\ShmGrow.vcxproj", "{4F656D20-0875-4BD1-97E6-2E88F1635EEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{23796FA8-8121-4E50-9F22-329D879C5A03}.Release|x64.Build.0 = Release|x64
 		{23796FA8-8121-4E50-9F22-329D879C5A03}.Release|x86.ActiveCfg = Release|Win32
 		{23796FA8-8121-4E50-9F22-329D879C5A03}.Release|x86.Build.0 = Release|Win32
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Debug|x64.ActiveCfg = Debug|x64
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Debug|x64.Build.0 = Debug|x64
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Debug|x86.Build.0 = Debug|Win32
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Release|x64.ActiveCfg = Release|x64
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Release|x64.Build.0 = Release|x64
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Release|x86.ActiveCfg = Release|Win32
+		{4F656D20-0875-4BD1-97E6-2E88F1635EEC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
